@@ -1,5 +1,5 @@
 # Welcome to Woo Jin Kim's repository!
-#### Current student in C#/.NET & React Program of [Epicodus](https://epicodus.com)
+
 #### Pronouns: He/Him
 _Reach out to me via e-mail at <a href="mailto:kimwoojin211@gmail.com">kimwoojin211@gmail.com</a> or on <img width="30" src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"> Discord @Wooj#3015_
 <hr>
