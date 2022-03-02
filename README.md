@@ -37,7 +37,7 @@ _Reach out to me via e-mail at <a href="mailto:kimwoojin211@gmail.com">kimwoojin
 
 ### Pinned Repositories
   <a href="https://github.com/kimwoojin211/BOTW-RecipeBook"><img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=kimwoojin211&repo=BOTW-RecipeBook&theme=nightowl" /></a>
-  <a href="https://github.com/kimwoojin211/portfolio-react"><img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=kimwoojin211&repo=portfolio=react&theme=nightowl" /></a>
+  <a href="https://github.com/kimwoojin211/portfolio-react"><img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=kimwoojin211&repo=portfolio-react&theme=nightowl" /></a>
 <!--
 **kimwoojin211/kimwoojin211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
