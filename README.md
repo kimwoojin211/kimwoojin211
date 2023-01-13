@@ -27,19 +27,6 @@ _Reach out to me via e-mail at <a href="mailto:kimwoojin211@gmail.com">kimwoojin
 <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 <hr>
-
-### Github Stats
-<div>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=kimwoojin211&show_icons=true&count_private=true&theme=nightowl" width="53%" />
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwoojin211&layout=compact&theme=nightowl" width="44%"/>
-</div>
-<hr>
-
-### Pinned Repositories
-  <a href="https://github.com/kimwoojin211/portfolio-react"><img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=kimwoojin211&repo=portfolio-react&theme=nightowl" /></a>
-  <a href="https://github.com/kimwoojin211/BOTW-RecipeBook"><img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=kimwoojin211&repo=BOTW-RecipeBook&theme=nightowl" /></a>
-  <a href="https://github.com/kimwoojin211/TournamentOrganizer.Solution"><img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=kimwoojin211&repo=TournamentOrganizer.Solution&theme=nightowl" /></a>
-  <a href="https://github.com/kimwoojin211/WorriedWednesday"><img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/pin/?username=kimwoojin211&repo=WorriedWednesday&theme=nightowl" /></a>
 <!--
 **kimwoojin211/kimwoojin211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
